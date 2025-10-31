@@ -7,5 +7,7 @@ Challenges motivate me, and that's my ambition, work something that challenges m
 
 ### Main Achievements
 
-- **CFIS-UPC** Doing a Double BSc in Math and Data Science, one of the 37 admited to the excellence program.
-- **Addiscoder 2025** Spend the summer working with US MSc and PhD target universities candidates teaching programming and mentoring 123 top ethiopian students
+- **CFIS-UPC**: Doing a Double BSc in Math and Data Science, one of the 37 admited to the excellence program.
+- **Addiscoder 2025**: Spend the summer working with UC Berkeley, Stanford and Harvard MSc and PhD candidates teaching programming and mentoring 123 top ethiopian students they are now applying to US Schools, hope to see good results!
+- **Ibero-American Olympiad in Informatics 2024**: Being 1 of the 9 Spanish representantives I was the top 10 (gold medal) out of 160+ participants representing the best competitive programmers of 14 countries.
+- **HackUPC 2023 -- Optiver Challenge**: Got an honorable mention in a hackathon of 600+ college participants, when being the only highschool team: we developed a market-making algorithm that provided profit and liquidity to the market by using arbitrage and hedging.
