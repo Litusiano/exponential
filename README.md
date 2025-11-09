@@ -1,3 +1,9 @@
+**Best with:** ???
+**Familiar with:** ????
+> 💡 **TL;DR** – ???
+
+---
+
 ## About Litus Mele
 I am Litus, a 19 year old born in Sabadell, Barcelona. My friends describe me as competitive and friendly. My real passions are football, going to live music events and fixing/building random things (last projects have been buying (and tuning) a dumbphone, fixing and digitalizing a turntable equipment and next one will be building a watch!)
 
@@ -13,7 +19,7 @@ Challenges motivate me, and that's my ambition, work something that challenges m
 - **Addiscoder 2025**: Spend the summer working with UC Berkeley, Stanford and Harvard MSc and PhD candidates teaching programming and mentoring 123 top ethiopian students they are now applying to US Schools, hope to see good results!
 - **Ibero-American Olympiad in Informatics 2024**: Being 1 of the 9 Spanish representantives I was the top 10 (gold medal) out of 160+ participants representing the best competitive programmers of 14 countries.
 - **HackUPC 2023 -- Optiver Challenge**: Got an honorable mention in a hackathon of 600+ college participants, when being the only highschool team: we developed a market-making algorithm that provided profit and liquidity to the market by using arbitrage and hedging.
-
+- **Leagues of Code**: One of 15 scholarships awarded to be weekly taught and mentored by a top 20 world-ranked competitive programmer (ICPC Gold, IMO Gold, LGM on Codeforces) and an IOI Gold.
 ---
 
 ## Most-Prideful Builds
@@ -39,8 +45,23 @@ Other builds: home NAS,  market making bot (HackUPC 2023).
 
 ## How I Work
 
-- **Gets me Pumped** : hard challenges •  competition • people having confidence on me • being the worst in a team.
-- **Disappoints me**: not creative challenges • things done without effort • bad working environment. 
-- **Strengths**: obsessive • love learning • organized • friendly • teamworker
+- **Gets me Pumped** : hard challenges •  competition • people having confidence on me • being the worst in a team
+- **Disappoints me**: not creative challenges • things done without effort • bad working environment
+- **Strengths**: obsessive • love learning • organized • friendly
 - **Known behaviours / comms style**:
+
+--- 
+
+## Other
+
+### Some personal stuff
+- Love doing things, I can not be chill at home
+- On Thursday nights, I play football in a "Sunday league", midfielder for the curious ones
+- Listener of "emergent" artists, I usually go to concerts every one or two weeks in some seasons.
+- Hate phones, [this](https://img.pccomponentes.com/articles/35/356934/4856-doro-7030-negro-libre-52e88e78-1351-48e3-ba52-3a30f97b34d6.jpg) is my day to day phone and [this](https://static.wikia.nocookie.net/ipod/images/d/de/Shuffleipod.jpg/revision/latest/thumbnail/width/360/height/450?cb=20120419181833) my day to day warrior
+- Tend to organize tons of meetings with my friends to keep ourselfs updated and distracted!
+- Passionate for kebabs, I had a peak season of 4 kebabs per week. One of my dreams is having one of [this](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNNe2v5SZwPDjXOtk-epiqZVRUlv_kK5SUVA&s) at home
+
+### My vision
+Over the next 5 years, I will build a network to connect all the historic olympic medalists in spain (Top 12 programmers each year), will keep learning by building and interning at companies. Before graduating, I will do my final thesis in a top US University and then start building with some colleagues I have done there or in Spain. US fits the plan as the fast pace and the creativy is the place to build.
 
