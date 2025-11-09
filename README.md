@@ -5,7 +5,7 @@
 ---
 
 ## About Litus Mele
-I am Litus, a 19 year old born in Sabadell, Barcelona. My friends describe me as competitive and friendly. My real passions are football, going to live music events and fixing/building random things (last projects have been buying (and tuning) a dumbphone, fixing and digitalizing a turntable equipment and next one will be building a watch!)
+I am Litus, a 19 year old born in Sabadell, Barcelona. My friends describe me as competitive and friendly. My real passions are football, going to live music events and fixing/building random things (last projects have been buying and tuning a dumbphone, fixing and digitalizing a turntable equipment and next one will be building a watch!)
 
 I am a second-year Mathematics and Data Science student at CFIS-UPC. I am also working as a Research Assistant in Economics at IESE Business School under the supervision of MIT PhD Marc de la Barrera. Past summer I was a Teaching Assistant at Addiscoder, a non-profit organisation that teaches python and algorithms ot the best ethiopian high-schoolers, with the goal of sending them to US universities and that they come back to develop their country, it's the ethiopian exponential ;)
 
@@ -16,7 +16,7 @@ Challenges motivate me, and that's my ambition, work something that challenges m
 ### Main Achievements
 
 - **CFIS-UPC**: Doing a Double BSc in Math and Data Science, one of the 37 admited to the excellence program.
-- **Addiscoder 2025**: Spend the summer working with UC Berkeley, Stanford and Harvard MSc and PhD candidates teaching programming and mentoring 123 top ethiopian students they are now applying to US Schools, hope to see good results!
+- **Addiscoder 2025**: Spend the summer working with UC Berkeley, Stanford and Harvard MSc and PhD candidates teaching programming and mentoring 123 top ethiopian students. They are now applying to US Schools, hope to see good results!
 - **Ibero-American Olympiad in Informatics 2024**: Being 1 of the 9 Spanish representantives I was the top 10 (gold medal) out of 160+ participants representing the best competitive programmers of 14 countries.
 - **HackUPC 2023 -- Optiver Challenge**: Got an honorable mention in a hackathon of 600+ college participants, when being the only highschool team: we developed a market-making algorithm that provided profit and liquidity to the market by using arbitrage and hedging.
 - **Leagues of Code**: One of 15 scholarships awarded to be weekly taught and mentored by a top 20 world-ranked competitive programmer (ICPC Gold, IMO Gold, LGM on Codeforces) and an IOI Gold.
@@ -25,10 +25,10 @@ Challenges motivate me, and that's my ambition, work something that challenges m
 ## Most-Prideful Builds
 | Project | Role & Stack | Why it matters |
 |---------|--------------|----------------|
-|**AddisCoder**	|  Teaching Assistant |  Introduced 125 Ethiopian kids to programming & unlocked ideas for they future by mentoring them. |
+|**AddisCoder**	|  Teaching Assistant |  Introduced 125 Ethiopian kids to programming & unlocked opportunities for they future by mentoring them. |
 |**IESE Business School** | Research Assistant | Made complex Economical Models 10x Faster & soon posting the paper I helped on. |
 | **Olympiads in Informatics** | Participant (and sometimes winner jeje) | Solved 1300+ algorithmic problems, 1000+ hours learning and became top 6 competitive programmer in Spain | 
-| **Spanish Olympiad in Informatics** | Advanced Algorithms Teacher | Weekly teaching advanced algorithms and mentoring 8 out of the top 30 Spanish Programmers | 
+| **Spanish Olympiad in Informatics** | Advanced Algorithms Teacher | Weekly teaching advanced algorithms and mentoring 8 out of the top 30 Spanish high school programmers | 
 | **Restoring and virtualizing music equipment** | Solo-dev • Raspberry Pi • DYI | Restored a 70’ turntable and speakers and added Airplay and Bluetooth via RPi. |
 
 Other builds: home NAS,  market making bot (HackUPC 2023).
