@@ -1,13 +1,16 @@
-**Best with:** ???
-**Familiar with:** ????
-> 💡 **TL;DR** – ???
+**Best with:** data structures & algorithms • C++ • Python • optimization \
+**Familiar with:** economics • postgreSQL • LaTeX • docker • R
+> 💡 **TL;DR** – I am Litus, a 19-year old that loves challenges, people and building random things.\
+> I a Math and Data Science student at CFIS-UPC and a Economics Research Assistant at IESE Business school under an MIT PhD supervision.\
+> On 2025 summer I was a Teaching Assistant at Addiscoder, the ethiopian exponential: it teaches programming to high-schoolers and unlock opportunities to apply to US universities.\
+> During highschool I started coding and competed in Data Structures & Algorithms competitions: I was trained by a top 20 globally, and I became Catalonia top 2, Spanish top 6.
 
 ---
 
 ## About Litus Mele
-I am Litus, a 19 year old born in Sabadell, Barcelona. My friends describe me as competitive and friendly. My real passions are football, going to live music events and fixing/building random things (last projects have been buying and tuning a dumbphone, fixing and digitalizing a turntable equipment and next one will be building a watch!)
+I am Litus, a 19 year old born in Sabadell, Barcelona. My friends describe me as competitive and friendly. My real passions are football, going to live music events and fixing/building random things (last projects have been buying and tuning a dumbphone, fixing and digitalizing a turntable equipment and next one will be building a watch!).
 
-I am a second-year Mathematics and Data Science student at CFIS-UPC. I am also working as a Research Assistant in Economics at IESE Business School under the supervision of MIT PhD Marc de la Barrera. Past summer I was a Teaching Assistant at Addiscoder, a non-profit organisation that teaches python and algorithms ot the best ethiopian high-schoolers, with the goal of sending them to US universities and that they come back to develop their country, it's the ethiopian exponential ;)
+I am a second-year Mathematics and Data Science student at CFIS-UPC. I am also working as a Research Assistant in Economics at IESE Business School under the supervision of MIT PhD Marc de la Barrera. Last summer I was a Teaching Assistant at Addiscoder, a non-profit organisation founded by UC Berkeley Professor Jelani Nelson that teaches python and algorithms ot the best ethiopian high-schoolers, with the goal of sending them to US universities and that they come back to develop their country, it's the ethiopian exponential ;)
 
 Challenges motivate me, and that's my ambition, work something that challenges me and that can help others. Coding was the first "serious" challenge I have found in my life, and took it pretty seriously starting in 2020, I competed in Olympiads in Informatics and become top 10 in Spain+Latam, and top 2 in my region (behind the historical best competitive programmer in Spain).
 
@@ -15,7 +18,7 @@ Challenges motivate me, and that's my ambition, work something that challenges m
 
 ### Main Achievements
 
-- **CFIS-UPC**: Doing a Double BSc in Math and Data Science, one of the 37 admited to the excellence program.
+- **CFIS-UPC**: Pursuing a Double BSc in Math and Data Science, one of the 37 admited to the excellence program.
 - **Addiscoder 2025**: Spend the summer working with UC Berkeley, Stanford and Harvard MSc and PhD candidates teaching programming and mentoring 123 top ethiopian students. They are now applying to US Schools, hope to see good results!
 - **Ibero-American Olympiad in Informatics 2024**: Being 1 of the 9 Spanish representantives I was the top 10 (gold medal) out of 160+ participants representing the best competitive programmers of 14 countries.
 - **HackUPC 2023 -- Optiver Challenge**: Got an honorable mention in a hackathon of 600+ college participants, when being the only highschool team: we developed a market-making algorithm that provided profit and liquidity to the market by using arbitrage and hedging.
@@ -25,9 +28,9 @@ Challenges motivate me, and that's my ambition, work something that challenges m
 ## Most-Prideful Builds
 | Project | Role & Stack | Why it matters |
 |---------|--------------|----------------|
-|**AddisCoder**	|  Teaching Assistant |  Introduced 125 Ethiopian kids to programming & unlocked opportunities for they future by mentoring them. |
+|**AddisCoder**	|  Teaching Assistant |  Introduced 123 Ethiopian kids to programming & unlocked opportunities: they are applying to US universities thanks to the program. |
 |**IESE Business School** | Research Assistant | Made complex Economical Models 10x Faster & soon posting the paper I helped on. |
-| **Olympiads in Informatics** | Participant (and sometimes winner jeje) | Solved 1300+ algorithmic problems, 1000+ hours learning and became top 6 competitive programmer in Spain | 
+| **Olympiads in Informatics** | Participant (and sometimes winner ;) ) | Solved 1300+ algorithmic problems, 1000+ hours learning and became top 6 competitive programmer in Spain | 
 | **Spanish Olympiad in Informatics** | Advanced Algorithms Teacher | Weekly teaching advanced algorithms and mentoring 8 out of the top 30 Spanish high school programmers | 
 | **Restoring and virtualizing music equipment** | Solo-dev • Raspberry Pi • DYI | Restored a 70’ turntable and speakers and added Airplay and Bluetooth via RPi. |
 
@@ -45,10 +48,10 @@ Other builds: home NAS,  market making bot (HackUPC 2023).
 
 ## How I Work
 
-- **Gets me Pumped** : hard challenges •  competition • people having confidence on me • being the worst in a team
+- **Gets me Pumped** : hard challenges • being the worst in a team •  competition • people believing on me 
 - **Disappoints me**: not creative challenges • things done without effort • bad working environment
 - **Strengths**: obsessive • love learning • organized • friendly
-- **Known behaviours / comms style**:
+- **Known behaviours / comms style**: direct • prefer call over message • transparent
 
 --- 
 
@@ -57,7 +60,7 @@ Other builds: home NAS,  market making bot (HackUPC 2023).
 ### Some personal stuff
 - Love doing things, I can not be chill at home
 - On Thursday nights, I play football in a "Sunday league", midfielder for the curious ones
-- Listener of "emergent" artists, I usually go to concerts every one or two weeks in some seasons.
+- Listener of spanish "emergent" artists no one knows, I usually go to concerts every one or two weeks in some seasons.
 - Hate phones, [this](https://img.pccomponentes.com/articles/35/356934/4856-doro-7030-negro-libre-52e88e78-1351-48e3-ba52-3a30f97b34d6.jpg) is my day to day phone and [this](https://static.wikia.nocookie.net/ipod/images/d/de/Shuffleipod.jpg/revision/latest/thumbnail/width/360/height/450?cb=20120419181833) my day to day warrior
 - Tend to organize tons of meetings with my friends to keep ourselfs updated and distracted!
 - Passionate for kebabs, I had a peak season of 4 kebabs per week. One of my dreams is having one of [this](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNNe2v5SZwPDjXOtk-epiqZVRUlv_kK5SUVA&s) at home
