@@ -1,8 +1,8 @@
 **Best with:** Data Structures and algorithms • C++ • Python \
 **Familiar with:** Business and Economics • SQL and noSQL • LaTeX • docker • R
 > 💡 **TL;DR** – I am Litus, a Math and Data Science student at CFIS-UPC and an Economics Research Assistant at IESE Business School under an MIT PhD supervision.\
-> During high school I started coding and competed in Data Structures & Algorithms competitions: I was trained by a global top 20. I became Catalonia top 2, Spanish top 6, and represented Spain in some international competitions.\
-> In summer 2025 I was a Teaching Assistant at Addiscoder, a program focused on teaching Python and Algorithms to the best Ethiopian high-schoolers and helping them apply to US universities; some alumni have already graduated from Harvard or MIT, in other words, it's the Ethiopian Exponential.
+> During high school I started coding and competed in Data Structures & Algorithms competitions: I was trained by a global top 20. I became Catalonia top 2, Spanish top 6, and Spain + Latam top 10 also represented Spain in some international competitions.\
+> During summer 25' I was a Teaching Assistant at Addiscoder, a program focused on teaching Python and Algorithms to the best Ethiopian high-schoolers and helping them apply to US universities; some alumni have already graduated from Harvard or MIT, in other words, it's the Ethiopian Exponential.
 
 ---
 
@@ -28,7 +28,7 @@ Challenges motivate me, I want to work on things that challenge me and that can 
 ## Most-Prideful Builds
 | Project | Role & Stack | Why it matters |
 |---------|--------------|----------------|
-|**AddisCoder**	|  Teaching Assistant |  Introduced 123 Ethiopian kids to programming & unlocked opportunities: they are applying to US universities thanks to the program. |
+|**AddisCoder**	|  Teaching Assistant |  Introduced 123 Ethiopian kids to programming & unlocked opportunities: they are applying to US universities thanks to the program (one already admitted at Harvard). |
 |**IESE Business School** | Research Assistant | Made complex Economical Models 10x Faster & soon posting the paper I helped on. |
 | **Olympiads in Informatics** | Participant (and sometimes winner \;) ) | Solved 1300+ algorithmic problems, 1000+ hours learning and became top 6 competitive programmer in Spain | 
 | **Spanish Olympiad in Informatics** | Advanced Algorithms Teacher | Weekly teaching advanced algorithms and mentoring 8 out of the top 30 Spanish high school programmers | 
